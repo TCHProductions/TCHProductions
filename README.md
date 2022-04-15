@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A Software Engineer from Wollongong, Australia</h3>
+<h3 align="center">A Software Engineer from Wollongong, Australia</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tchproductions&label=Profile%20views&color=0e75b6&style=flat" alt="tchproductions" /> </p>
 
 
 
-- 🌱 I’m currently learning **Fullstack JS through #100 Devs Agency**
+-  I’m currently learning **Fullstack JS through #100 Devs Agency**
 
-- 👨‍💻 All of my projects are available at [<placeholder>](<placeholder>)
+-  All of my projects are available at [<placeholder>](<placeholder>)
 
-- 💬 Ask me about **Any projects, ideas of concepts you may have!**
+-  Ask me about **Any projects, ideas of concepts you may have!**
 
-- 📫 How to reach me **tch.webdev@gmail.com**
+-  How to reach me **tch.webdev@gmail.com**
 
-- 📄 Know about my experiences [<placeholder>](<placeholder>)
+-  Know about my experiences [<placeholder>](<placeholder>)
 
-- Hobbies Outside Coding: **Sports, Statistics and Working Out**
+-  Hobbies Outside Coding: **Sports, Statistics and Working Out**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/tchproductions1" target="blank"><img src="https://img.shields.io/twitter/follow/tchproductions1?logo=twitter&style=for-the-badge" alt="tchproductions1" /></a> </p>
