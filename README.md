@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A Software Engineer from Wollongong, Australia</h3> 
 <p align="center">Status: Exploring fullstack javascript with the #100devs agency</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adrianC4rr&label=Profile%20views&color=0e75b6&style=flat" alt="adrianC4rr" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
